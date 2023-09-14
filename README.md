@@ -10,6 +10,8 @@ This project is a comprehensive healthcare data analysis and prediction tool des
 * Website
 * Why This Project Matters
 * Challenges and Learnings
+* Future Scope
+* Conclusion
 ## Key Project Components
 ## 1. Web Scraping
 We scrape data from the Practo website by using Python and Beautiful Soup to collect comprehensive information about doctors' in a csv file. We scrape table including speciality, experience , location , city , doctor-patient score , consulation fees , votes per person and degree.
@@ -54,6 +56,16 @@ We develop machine learning models that predict doctor consultation fees based o
 2. Data was too big to retreive , several times we got disconnected with the company's server .
 3. Requirement of a stable network.
 4. Face off with the real life project was challenging but got our hands on the tools well.
+## Future Scope
+1. Integration with More Healthcare Data Sources.
+2. User Profiles and Personalization features on the consumer website, enabling users to save preferences and receive tailored recommendations.
+3. Multi-Language Support
+4. Mobile App Development
+5. Predictive Analytics, it can go beyond consultation fees and develop predictive models for other healthcare-related costs, such as prescription medications, diagnostic tests, and surgeries.
+## Conclusion
+The "Doctor Fee Prediction" project represents our commitment to revolutionizing the healthcare industry by enhancing cost transparency and accessibility. We've achieved significant milestones, from successfully scraping Practo data to developing accurate machine learning models for consultation fee predictions. Through the consumer website, we've empowered patients to make informed decisions about their healthcare expenses.
+This project has not only provided valuable insights into the healthcare landscape but also taught us valuable lessons about data collection, analysis, and machine learning model development. We're immensely grateful to the open-source community for its support and contributions.
+
 # Thank You 
 
 
